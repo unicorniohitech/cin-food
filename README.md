@@ -26,3 +26,9 @@ Projeto da Disciplina de Engenharia de Software 2022.2 em SI
 ## Challenge
 
 O objetivo é criar uma solução, possivelmente uma aplicação web, que seja a ponte para unir os restaurantes e lanchonetes próximas do CIn e UFPE aos alunos e demais membros da comunidade do centro, visando o fornecimento de alimentos de forma independente de outras plataformas.
+
+
+## Que questões norteadoras você propõe para explorar e aprender mais sobre o desafio?
+
+- Quais as dificuldades para os restaurantes/lanchonetes não abrangerem a região do CIn?
+- Quais os possíveis impactos em caso de desafio concluído?
