@@ -13,4 +13,12 @@ Projeto da Disciplina de Engenharia de Software 2022.2 em SI
 
 ## Big Idea
 
-  Fornecimento de comida no CIn
+**Fornecimento de comida no CIn**
+  
+
+## Essential Question
+
+
+- Porque impacta tanto a falta de alimentos aos alunos do CIn, principalmente à noite?
+- Como interligar os restaurantes e lanchonetes próximas ao CIn?
+- Por qual meio iremos fazer isso?
