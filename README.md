@@ -54,3 +54,7 @@ Sugerimos o desenvolvimento de uma aplicação web que permita aos usuários vis
 
 ## [10] Implementation (Como você testará a solução no mundo real?)
 Para testar a solução no mundo real, sugerimos o lançamento de uma versão beta da aplicação para um grupo limitado de usuários, composto principalmente por alunos do CIn e membros da comunidade do centro. Após coletar feedbacks e realizar ajustes necessários, a aplicação poderá ser lançada para um público maior. A empresa também poderá realizar campanhas de marketing direcionadas para promover a solução e atrair novos usuários. O processo de expansão dos restaurantes/lanchonetes na plataforma deverá ser gradual e orientado por métricas de sucesso.
+
+## Apresentação - Pitch
+
+[CIn Alimenta - Pitch](https://docs.google.com/presentation/d/18ldFkZwM8Ybs-iTzvxpZFuO7zpptNnyA1RD09Ojtujc/edit)
