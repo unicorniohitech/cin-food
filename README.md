@@ -62,3 +62,11 @@ Para testar a solução no mundo real, sugerimos o lançamento de uma versão be
 ## Pitch Final (26/04/2023)
 
 [CIn Alimenta - Pitch Final](https://www.canva.com/design/DAFfvmQ5h_s/raZXBNzi8UZRAgOzM6jOPQ/view?utm_content=DAFfvmQ5h_s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+## Documentação
+
+[CIn Alimenta - Documentação](https://github.com/unicorniohitech/cin-alimenta/tree/master/Documenta%C3%A7%C3%A3o)
+
+## ScreenCast
+
+[CInAlimenta - ScreenCast]()
